@@ -1,0 +1,5 @@
+{
+    "sourceMaps": true, 
+    "presets": ["@babel/preset-es2015","@babel/preset-es2017"],
+    "plugins": ["@babel/plugin-syntax-dynamic-import", "@babel/plugin-transform-destructuring", "@babel/plugin-proposal-class-properties"]
+}
